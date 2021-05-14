@@ -1,6 +1,7 @@
 # JS-Practice
 
 # Race Day --Conditional Statement
+
 Here’s how our registration works. There are adult runners (over 18 years of age) and youth runners (under 18 years of age). They can register early or late. Runners are assigned a race number and start time based on their age and registration.
 
 Race number:
@@ -24,6 +25,11 @@ The program will determine the actual and ideal hours of sleep for each night of
 Finally, it will calculate, in hours, how far you are from your weekly sleep goal.
 
 # Training Days --Scope
+
 As a seasoned athlete, one of your favorite activities is running marathons. You use a service called Training Days that sends you a message for the event you signed up for and the days you have left to train.
 
 Since you also code, Training Days has asked you to help them solve a problem: The program currently uses the wrong scope for its variables. They know this can be troublesome as their service evolves. In this project you will make Training Days more maintainable and less error-prone by fixing variable scopes.
+
+# Secret Message --Arrays
+
+Using array methods, you will transform an array of strings into a secret message! 
