@@ -14,3 +14,10 @@ Start time:
         Early adults run at 9:30 am.
         Late adults run at 11:00 am.
     Youth registrants run at 12:30 pm (regardless of registration).
+
+# Sleep Debt Calculator
+Did you know that giraffes sleep 4.6 hours a day? We humans need more than that. If we don’t sleep enough, we accumulate sleep debt. In this project we’ll calculate if you’re getting enough sleep each week using a sleep debt calculator.
+
+The program will determine the actual and ideal hours of sleep for each night of the last week.
+
+Finally, it will calculate, in hours, how far you are from your weekly sleep goal.
